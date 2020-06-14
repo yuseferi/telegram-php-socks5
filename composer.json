@@ -1,0 +1,10 @@
+{
+    "name"  : "yuseferi/telegram-php-socks5",
+    "type"  : "project",
+    "keywords": ["php-socks5","telegram socks5","php","telegram php socks5","easy proxy for telegram"],
+    "homepage": "http://www.github.com/yuseferi/telegram-php-socks5",
+    "license" : "MIT",
+    "require": {
+        "workerman/workerman" : ">=4.0.0"
+    }
+}
